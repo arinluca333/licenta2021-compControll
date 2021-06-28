@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar voice;
+public <command> = (computer)(exit);

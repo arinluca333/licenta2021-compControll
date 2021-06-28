@@ -1,0 +1,2 @@
+C:\Users\Arin\source\repos\Licenta_1.0\x64\Debug\Licenta_1.0.exe
+C:\Users\Arin\source\repos\Licenta_1.0\x64\Debug\Licenta_1.0.pdb

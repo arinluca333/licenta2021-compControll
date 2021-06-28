@@ -1,0 +1,12 @@
+disableGesture=False
+disableVoice=False
+listenTime=1,0
+camera=0
+startup=False
+sensibility=7,0
+recognitionTime=1,5
+finger1=On Screen Keyboard
+finger2=None
+finger3=None
+finger4=None
+finger5=None
